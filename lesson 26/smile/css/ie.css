@@ -1,0 +1,33 @@
+/*
+Smile Incorporated (additional IE styles)
+Ian Yates
+December 2011
+Tuts+ Premium
+*/
+
+
+.social .skype a {
+	background: url(../img/sprite.png) -450px -50px no-repeat transparent;
+	}	
+	
+.social .twitter a {
+	background: url(../img/sprite.png) -500px -50px no-repeat transparent;
+	}	
+	
+.social .facebook a {
+	background: url(../img/sprite.png) -550px -50px no-repeat transparent;
+	}
+	
+	
+	
+.social .skype a:hover {
+	background: url(../img/sprite.png) -450px -100px no-repeat transparent;
+	}	
+	
+.social .twitter a:hover {
+	background: url(../img/sprite.png) -500px -100px no-repeat transparent;
+	}	
+	
+.social .facebook a:hover {
+	background: url(../img/sprite.png) -550px -100px no-repeat transparent;
+	}		
